@@ -11,11 +11,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "title"
+title                    : "Playground"
 title_separator          : "-"
-subtitle                 : "subtitle"
-name                     : &name "name" # &name is a YAML anchor which can be *referenced later
-description              : &description "description"
+subtitle                 : "This is a temperal personal website for playing around."
+name                     : &name "Forkxz" # &name is a YAML anchor which can be *referenced later
+description              : &description "description of Forkxz"
 url                      : https://forkxz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "forkxz/forkxz.github.io"
@@ -98,37 +98,39 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
+  avatar           : "/assets/images/head.jpg"
   bio              : "bio"
-  location         : "location"
+  location         : "Hong Kong"
   links:
-    - label: "Made Mistakes"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://mademistakes.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://scholar.google.com/citations?user=ehEym28AAAAJ&hl=zh-CN"
+    - label: "SQML lab"
+      icon: "fas fa-fw fa-link"
+      url: "https://sqml.ust.hk/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/mmistakes"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://github.com/Forkxz"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/mmistakes"
 
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-link"
+      url: "https://scholar.google.com/citations?user=ehEym28AAAAJ&hl=zh-CN"
+    - label: "SQML lab"
+      icon: "fas fa-fw fa-link"
+      url: "https://sqml.ust.hk/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-
+      url: "https://github.com/Forkxz"
 
 # Reading Files
 include:
