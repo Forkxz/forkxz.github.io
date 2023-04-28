@@ -20,8 +20,8 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Notion"
+    url: https://forkxz.github.io/notion/
   - title: "About"
     url: /about/
   - title: "Sample Posts"
